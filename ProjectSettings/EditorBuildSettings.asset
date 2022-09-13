@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 7e81993e4fb22694280cd54df0f33124
+  - enabled: 1
+    path: Assets/Scenes/center_down.unity
+    guid: 15261c1e2fd54f94db5f5be513e50086
+  - enabled: 1
+    path: Assets/Scenes/center_UP.unity
+    guid: c240035a45d968e4fa13f2deb1149f63
+  - enabled: 1
+    path: Assets/Scenes/Left_Down.unity
+    guid: aa57d223475b3784aa4222fba97f5edc
+  - enabled: 1
+    path: Assets/Scenes/Left_UP.unity
+    guid: 905c764238dcfdd438bd16fbb8620d97
+  - enabled: 1
+    path: Assets/Scenes/Right_All.unity
+    guid: 159b4df36cdf2694080b893343fde10e
+  - enabled: 1
+    path: Assets/Scenes/warpDoor.unity
+    guid: 3ef14dea308bf1f4084e9750c40c2cc4
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 90f08b57291262e489f0a702e10730ea
+  m_configObjects: {}
